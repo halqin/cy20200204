@@ -1,0 +1,32 @@
+;Province/State;Country/Region;Last Update;Confirmed;Deaths;Recovered;lat;lon
+0;Hubei;Mainland China;2/4/20 23:43;16678;479;522;31.16063;112.24886
+1;Zhejiang;Mainland China;2/5/20 1:33;895;0;63;29.17154;120.06824
+2;Guangdong;Mainland China;2/5/20 2:03;870;0;32;22.87085;113.41972
+3;Henan;Mainland China;2/5/20 1:13;764;2;41;33.87541;113.48402
+4;Hunan;Mainland China;2/5/20 1:43;661;0;35;27.3818;111.51068
+5;Jiangxi;Mainland China;2/5/20 1:33;548;0;27;27.28597;116.01609
+6;Anhui;Mainland China;2/5/20 1:13;530;0;20;32.02638;117.25275
+7;Chongqing;Mainland China;2/5/20 0:13;366;2;14;29.56692;106.59304
+8;Jiangsu;Mainland China;2/5/20 2:43;341;0;13;32.93708;119.15193
+9;Sichuan;Mainland China;2/5/20 0:53;301;1;23;30.14208;102.96496
+10;Shandong;Mainland China;2/5/20 1:03;298;0;13;36.32902;118.76988
+11;Shanghai;Mainland China;2/5/20 0:23;233;1;12;31.2184;121.43456
+12;Beijing;Mainland China;2/4/20 8:33;228;1;23;39.93084;116.38634
+13;Fujian;Mainland China;2/4/20 12:13;194;0;3;25.94205;118.13727
+14;Heilongjiang;Mainland China;2/5/20 1:23;190;2;4;48.49496;127.9781
+15;Shaanxi;Mainland China;2/5/20 2:43;165;0;2;35.6452;108.47221
+16;Guangxi;Mainland China;2/5/20 0:43;150;0;10;23.89393;108.26651
+17;Hebei;Mainland China;2/5/20 2:53;135;1;4;39.33721;116.64286
+18;Yunnan;Mainland China;2/4/20 23:23;122;0;5;25.18113;101.86414
+19;Hainan;Mainland China;2/5/20 2:53;91;1;4;19.1604;109.82704
+20;Liaoning;Mainland China;2/4/20 14:13;81;0;2;41.09748;122.31478
+21;Shanxi;Mainland China;2/4/20 23:23;81;0;4;37.66119;112.38998
+22;Tianjin;Mainland China;2/4/20 13:33;67;0;2;39.13197;117.19807
+23;Guizhou;Mainland China;2/5/20 1:23;64;0;5;26.92847;106.55943
+24;Gansu;Mainland China;2/4/20 15:43;57;0;4;37.68319;101.10082
+25;Jilin;Mainland China;2/5/20 0:43;54;0;1;43.57689;126.4792
+26;Inner Mongolia;Mainland China;2/5/20 1:53;42;0;1;45.37661;111.69734
+27;Ningxia;Mainland China;2/4/20 2:13;34;0;1;37.31424;105.9722
+28;Xinjiang;Mainland China;2/5/20 2:03;32;0;0;42.17386;84.94479
+29;Qinghai;Mainland China;2/5/20 1:23;17;0;0;35.48333;96.25259
+30;Tibet;Mainland China;2/1/20 1:52;1;0;0;31.9032;88.7527
